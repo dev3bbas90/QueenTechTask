@@ -1,0 +1,4 @@
+About Log File Viewer
+* getFileContent function 
+    call class file by ajax and fetch paginated data and show result
+    this function called if any button clicked or form submitted
